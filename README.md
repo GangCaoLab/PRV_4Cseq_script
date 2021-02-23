@@ -12,11 +12,13 @@ done
 
 ### primer.input.information.txt
 
+```
 fastq_file_1	chen_S1_L001_R1_001.fastq
 fastq_file_2	chen_S1_L001_R2_001.fastq
 primer_file	primer_set_1.txt
 maximum_mismatches	2
 output_data_with_ambiguous_linker_info	0
+```
 
 ## 2. cut primer
 
